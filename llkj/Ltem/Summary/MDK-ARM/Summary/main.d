@@ -30,3 +30,4 @@ summary\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 summary\main.o: ../Core/Inc/spi.h
 summary\main.o: ../Core/Inc/usart.h
 summary\main.o: ../Core/Inc/gpio.h
+summary\main.o: ../Core/Inc/st7735.h

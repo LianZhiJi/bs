@@ -6,6 +6,7 @@
 "summary\usart.o"
 "summary\stm32f1xx_it.o"
 "summary\stm32f1xx_hal_msp.o"
+"summary\st7735.o"
 "summary\stm32f1xx_hal_gpio_ex.o"
 "summary\stm32f1xx_hal_spi.o"
 "summary\stm32f1xx_hal.o"
